@@ -1,0 +1,39 @@
+.speech { 
+    font-family: "Times New Roman";
+    font-size: 14px; 
+    color:black; 
+    }
+.stage-direction { 
+    font-family: "Arial"; 
+    font-size: 15px; 
+    color:black;
+    background-color: lightblue;
+    }
+.name {
+    font-family: "Helvetica"; 
+    font-size: 17px;
+    color:black; 
+    }   
+.stage-direction:hover{ 
+    background-color:chartreuse;
+    color:red; 
+}
+           
+.duchess{ 
+    color:seagreen; 
+}
+.agatha{ 
+    color:tomato;
+}
+.parker { 
+    color:red;
+ }
+.dumby { 
+    color: blueviolet;
+}
+.stutfield{
+    color: darkblue;
+}
+h6{
+    margin: 10px 0;
+}
