@@ -37,3 +37,13 @@
 h6{
     margin: 10px 0;
 }
+table, th, td, tr{
+    border: solid blueviolet 4px;
+    color:firebrick;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 15px;
+    margin: 10px;
+}
+tr:nth-child(even){background-color: lightblue;}
+
