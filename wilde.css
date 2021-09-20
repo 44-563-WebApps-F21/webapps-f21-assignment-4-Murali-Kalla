@@ -49,3 +49,7 @@ tr:nth-child(even){background-color: lightblue;}
 .cowper {
     color:maroon;
 }
+.name:hover{
+    text-shadow: 2px 4px 8px red;
+    border: solid 2px green;
+}
