@@ -46,4 +46,6 @@ table, th, td, tr{
     margin: 10px;
 }
 tr:nth-child(even){background-color: lightblue;}
-
+.cowper {
+    color:maroon;
+}
